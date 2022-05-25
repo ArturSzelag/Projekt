@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="style" href="style.css">
+    </head>
+<body style="background-color:rgb(204, 255, 153);">
+    <center>
+    <h1><b>Sklep zoologiczny Primorse</b></h1>
+    <h2><i>Cztery łapy szczęścia</i></h2>
+        <h3>Zaopatrzenie żywieniowe, higieniczne i pielęgnacyjne dla naszych zwierząt</h3>
+        <div class="btn-group">
+            <button>Zwierzęta</button>
+            <button>Karma</button>
+            <button>Artykuły higieniczne</button>
+            <button>Promocje</button>
+            <button>Kontakt</button>
+</div>
+         <img src="wunsz.png" alt="wunsz">
+        </center>
+</body>
+</html>
