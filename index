@@ -1,11 +1,7 @@
 <html>
-<head>
-<style>
-</style>
-</head>
-<body>
-
-<p>Strona główna projektu sklepu zoologicznego</p>
-
+<body style="background-color:powderedgreen;">
+<h1>Sklep zoologiczny Primorse</h1>
+<h2>Cztery łapy szczęścia</h2>
+<p1>Zaopatrzenie żywieniowe, higieniczne i pielęgnacyjne dla naszych zwierząt</p1>
 </body>
 </html>
